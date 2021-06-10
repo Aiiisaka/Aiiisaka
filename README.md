@@ -1,10 +1,10 @@
-### Coucou, je m'appelle Maud aka Aiiisaka 👋
+# Coucou, je m'appelle Maud aka Aiiisaka 👋
 
-# 💬 A propos de moi :
+### 💬 A propos de moi :
 
 Je suis actuellement en dernière année DUT Informatique et admise à MyDigitalSchool en Développement Web.
 
-# 📫 Ce que je recherche :
+### 📫 Ce que je recherche :
 
 Étant admise à MyDigitalSchool pour la rentrée 2021, je recherche une alternance dans le domaine du dév web !
 
