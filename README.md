@@ -15,7 +15,7 @@
 
 - 📫 Pour me contacter, c'est simple ! Voici mon adresse mail : **0maudlefort0@gmail.com**.
 
-- ⚡ Une fun fact ? Contactez-moi et vous serez ! 😄
+- ⚡ Un fun fact ? Contactez-moi et vous serez ! 😄
 
 <!--
 **Aiiisaka/Aiiisaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
