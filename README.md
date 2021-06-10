@@ -1,6 +1,8 @@
 <h2 align="center">Coucou, je m'appelle Maud aka Aiiisaka 👋</h2>
 <h4 align="center">Je suis actuellement en dernière année DUT Informatique et admise à MyDigitalSchool en Développement Web. De ce fait, je recherche une alternance dans le domaine du dév web !</h3>
 
+<br>
+
 - 🔭 Vous pouvez consulter mon site personnel ici : https://aiiisaka.fr (/!\ EN TRAVAUX).
 
 - 👯 Je suis actuellement en stage au sein de la CFA/MFR-CFTA de la Ferté-Macé où je dois créer leur site internet en binôme avec Valentin. Vous voulez voir le site ? C'est ici : https://mfr-cfta-ferte.com !
