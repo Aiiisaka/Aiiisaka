@@ -1,5 +1,5 @@
-<h2 align:"center">Coucou, je m'appelle Maud aka Aiiisaka 👋</h2>
-<h3 align:"center">Je suis actuellement en dernière année DUT Informatique et admise à MyDigitalSchool en Développement Web. De ce fait, je recherche une alternance dans le domaine du dév web !</h3>
+<h2 align="center">Coucou, je m'appelle Maud aka Aiiisaka 👋</h2>
+<h4 align="center">Je suis actuellement en dernière année DUT Informatique et admise à MyDigitalSchool en Développement Web. De ce fait, je recherche une alternance dans le domaine du dév web !</h3>
 
 - 🔭 Vous pouvez consulter mon site personnel ici : https://aiiisaka.fr (/!\ EN TRAVAUX).
 
