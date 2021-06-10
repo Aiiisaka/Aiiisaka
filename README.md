@@ -1,14 +1,19 @@
-# Coucou, je m'appelle Maud aka Aiiisaka 👋
+<h2 align:"center">Coucou, je m'appelle Maud aka Aiiisaka 👋</h2>
+<h3 align:"center">Je suis actuellement en dernière année DUT Informatique et admise à MyDigitalSchool en Développement Web. De ce fait, je recherche une alternance dans le domaine du dév web !</h3>
 
-### 💬 A propos de moi :
+- 🔭 Vous pouvez consulter mon site personnel ici : https://aiiisaka.fr (/!\ EN TRAVAUX).
 
-Je suis actuellement en dernière année DUT Informatique et admise à MyDigitalSchool en Développement Web.
+- 👯 Je suis actuellement en stage au sein de la CFA/MFR-CFTA de la Ferté-Macé où je dois créer leur site internet en binôme avec Valentin. Vous voulez voir le site ? C'est ici : https://mfr-cfta-ferte.com !
 
-### 📫 Ce que je recherche :
+- 🌱 Je suis en train d'apprendre de nouveaux langages, comme le SASS, et m'améliorer à utiliser WordPress.
 
-Étant admise à MyDigitalSchool pour la rentrée 2021, je recherche une alternance dans le domaine du dév web !
+- 🤔 Je recherche activement une **alternance** !
 
-Si vous voulez me contactez, et avoir plus d'informations sur moi, envoyez-moi un mail à 0maudlefort0@gmail.com.
+- 💬 Vous pouvez me contactez si vous souhaitez plus d'informations sur moi et mes formations !
+
+- 📫 Pour me contacter, c'est simple ! Voici mon adresse mail : **0maudlefort0@gmail.com**.
+
+- ⚡ Une fun fact ? Contactez-moi et vous serez ! 😄
 
 <!--
 **Aiiisaka/Aiiisaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
