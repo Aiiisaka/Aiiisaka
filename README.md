@@ -1,5 +1,5 @@
 <h2 align="center">Coucou, je m'appelle Maud aka Aiiisaka 👋</h2>
-<h4 align="center">Après avoir eu mon DUT Informatique, je suis en Développement Web au sein de l'école MyDigitalSchool situé sur Toulouse. Je suis actuellement en alternance chez Dydaps !</h44>
+<h4 align="center">Après avoir eu mon DUT Informatique, je suis en Développement Web au sein de l'école MyDigitalSchool situé sur Toulouse. Je suis actuellement en alternance chez Dydaps !</h4>
 
 <br>
 
