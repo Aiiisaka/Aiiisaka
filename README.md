@@ -1,15 +1,15 @@
 <h2 align="center">Coucou, je m'appelle Maud aka Aiiisaka 👋</h2>
-<h4 align="center">Je suis actuellement en dernière année DUT Informatique et admise à MyDigitalSchool en Développement Web. De ce fait, je recherche une alternance dans le domaine du dév web !</h3>
+<h4 align="center">Après avoir eu mon DUT Informatique, je suis en Développement Web au sein de l'école MyDigitalSchool situé sur Toulouse. Je suis actuellement en alternance chez Dydaps !</h44>
 
 <br>
 
 - 🔭 Vous pouvez consulter mon site personnel ici : https://aiiisaka.fr (/!\ EN TRAVAUX).
 
-- 👯 Je suis actuellement en stage au sein de la CFA/MFR-CFTA de la Ferté-Macé où je dois créer leur site internet en binôme avec Valentin. Vous voulez voir le site ? C'est ici : https://mfr-cfta-ferte.com !
+- 👯 J'ai réalisé un stage au sein de la CFA/MFR-CFTA de la Ferté-Macé où j'ai dû créer leur site internet en binôme avec Valentin. Vous voulez voir le site ? C'est ici : https://mfr-cfta-ferte.com !
 
-- 🌱 Je suis en train d'apprendre de nouveaux langages, comme le SASS, et m'améliorer à utiliser WordPress.
+- 🌱 Je suis en train d'apprendre Prestashop.
 
-- 🤔 Je recherche activement une **alternance** !
+- 🤔 Je suis en **alternance** ! Je réalise des sites e-commerces et autres choses !
 
 - 💬 Vous pouvez me contactez si vous souhaitez plus d'informations sur moi et mes formations !
 
