@@ -5,7 +5,7 @@
 
 - 🔭 Vous pouvez consulter mon site personnel ici : https://aiiisaka.fr (/!\ EN TRAVAUX).
 
-- 👯 J'ai réalisé un stage au sein de la CFA/MFR-CFTA de la Ferté-Macé où j'ai dû créer leur site internet en binôme avec Valentin.
+- 👯 J'ai réalisé un stage au sein de la CFA/MFR-CFTA de la Ferté-Macé l'année dernière où j'ai dû créer leur site internet en binôme avec Valentin.
 
 - 🌱 Je suis en train d'apprendre Laravel & React Native.
 
@@ -15,7 +15,7 @@
 
 - 📫 Pour me contacter, c'est simple ! Voici mon adresse mail : **0maudlefort0@gmail.com**.
 
-- ⚡ Un fun fact ? Contactez-moi et vous serez ! 😄
+- ⚡ Un fun fact ? Contactez-moi et vous saurez ! 😄
 
 <!--
 **Aiiisaka/Aiiisaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
