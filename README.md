@@ -1,15 +1,15 @@
 <h2 align="center">Coucou, je m'appelle Maud aka Aiiisaka 👋</h2>
-<h4 align="center">Après avoir eu mon DUT Informatique, je suis en Développement Web au sein de l'école MyDigitalSchool situé sur Toulouse. Je suis actuellement en alternance chez Dydaps !</h4>
+<h4 align="center">Après avoir eu mon DUT Informatique, je suis en Développement Web au sein de l'école MyDigitalSchool situé sur Toulouse. Je suis actuellement en alternance chez Dydaps Solutions !</h4>
 
 <br>
 
 - 🔭 Vous pouvez consulter mon site personnel ici : https://aiiisaka.fr (/!\ EN TRAVAUX).
 
-- 👯 J'ai réalisé un stage au sein de la CFA/MFR-CFTA de la Ferté-Macé où j'ai dû créer leur site internet en binôme avec Valentin. Vous voulez voir le site ? C'est ici : https://mfr-cfta-ferte.com !
+- 👯 J'ai réalisé un stage au sein de la CFA/MFR-CFTA de la Ferté-Macé où j'ai dû créer leur site internet en binôme avec Valentin.
 
-- 🌱 Je suis en train d'apprendre Prestashop.
+- 🌱 Je suis en train d'apprendre Laravel & React Native.
 
-- 🤔 Je suis en **alternance** ! Je réalise des sites e-commerces et autres choses !
+- 🤔 Je suis en **alternance** ! Je réalise des sites e-commerces, sites vitrines et applis mobiles !
 
 - 💬 Vous pouvez me contactez si vous souhaitez plus d'informations sur moi et mes formations !
 
