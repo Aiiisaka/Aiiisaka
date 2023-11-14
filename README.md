@@ -1,5 +1,5 @@
 <h2 align="center">Coucou, je m'appelle Maud aka Aiiisaka 👋</h2>
-<h4 align="center">Après avoir eu mon DUT Informatique, je suis en Développement Web au sein de l'école MyDigitalSchool situé sur Toulouse. Je suis actuellement en alternance chez Dydaps Solutions ! A la fin de ce diplôme, je continue mes études en Ingénierie du Web en Alternance à ESGI.</h4>
+<h4 align="center">Après avoir eu mon DUT Informatique et avoir eu mon CDA, je suis actuellement en développement full stack situé sur Toulouse. Je suis actuellement en alternance chez Dydaps !</h4>
 
 <br>
 
@@ -7,7 +7,7 @@
 
 - 🌱 Je suis en train d'apprendre Laravel & React Native.
 
-- 🤔 Je suis en **alternance** ! Je réalise des sites e-commerces, sites vitrines et applis mobiles !
+- 🤔 Je suis en **alternance** ! Je réalise des sites e-commerces, sites vitrines, applis métiers et applis mobiles !
 
 - 💬 Vous pouvez me contactez si vous souhaitez plus d'informations sur moi et mes formations !
 
