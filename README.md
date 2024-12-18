@@ -1,13 +1,17 @@
-<h2 align="center">Coucou, je m'appelle Maud LEFORT aka Aiiisaka 👋</h2>
-<h4 align="center">Après avoir eu un DUT Informatique, un CDA en alternance et un Master Développeur Full Stack en alternance, je suis maintenant Lead Developper chez Dydaps !</h4>
+<h2 align="center">Hello, my name is Maud LEFORT aka Aiiisaka 👋</h2>
+<h4 align="center">After earning a DUT in Computer Science, a CDA apprenticeship, and a Master’s in Full-Stack Development through a work-study program, I am now Lead Developer at Dydaps!</h4>
 
 <br>
 
-- 🌱 Je suis en train d'appronfondir mes connaissances sur NextJS, Laravel avec FilamentPHP et Flutter.
+- 🥖 I'm French!
 
-- 🤔 Je réalise des sites e-commerces, sites vitrines, applis métiers et applis mobiles !
+- 🌱 I’m currently deepening my knowledge of NextJS, Laravel with FilamentPHP, and Flutter.
 
-- 📫 Pour me contacter, c'est simple ! Voici mon adresse mail : **0maudlefort0@gmail.com**.
+- 🤔 I create e-commerce websites, showcase websites, business applications, and mobile apps!
+
+- 📂 This GitHub is my personal space, showcasing diverse projects that helped me grow and develop my skills.
+
+- 📫 Feel free to contact me at **0maudlefort0@gmail.com**.
 
 <!--
 **Aiiisaka/Aiiisaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
